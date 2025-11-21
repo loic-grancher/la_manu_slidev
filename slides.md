@@ -153,3 +153,83 @@ src: ./pages/partie_3/communication_couches.md
 src: ./pages/partie_3/communication_bdd.md
 ---
 <!--  -->
+
+
+---
+background: https://cover.sli.dev
+layout: cover
+---
+# Partie IV : Maquettes
+
+
+---
+src: ./pages/partie_4/outils.md
+---
+<!--  -->
+---
+src: ./pages/partie_4/zoning.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_4/wireframe.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_4/maquette.md
+---
+<!--  -->
+
+---
+background: https://cover.sli.dev
+layout: cover
+---
+# Partie V : Modèles de base de données
+
+---
+src: ./pages/partie_5/mcd.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_5/mld.md
+---
+<!--  -->
+
+---
+background: https://cover.sli.dev
+layout: cover
+---
+# Partie VI : Fonctionnalités et cas d'utilisation
+
+---
+src: ./pages/partie_6/comportement_1.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_6/comportement_2.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_6/cas_utilisation.md
+---
+<!--  -->
+
+---
+background: https://cover.sli.dev
+layout: cover
+---
+# Partie VII : Spécifications techniques
+
+
+
+
+
+
+
+# Partie 
+
+# Conclusion
