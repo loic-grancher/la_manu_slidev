@@ -1,7 +1,7 @@
 ---
 layout: center
 ---
-# Cahier des charges
+## Cahier des charges
 
 La première étape a été la rédaction d'un cahier des charges détaillé, qui a servi de fil conducteur tout au long du projet.
 

@@ -1,7 +1,7 @@
 ---
 layout: center
 ---
-# Compétences
+## Compétences
 
 Ce projet avait pour but de mettre en œuvre les différentes compétences répertoriées dans le référentiel de la formation.
 

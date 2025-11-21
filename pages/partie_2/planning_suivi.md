@@ -3,7 +3,7 @@ layout: image-right
 image: /images/planning.png
 backgroundSize: contain
 ---
-# Planning et suivi
+## Planning et suivi
 Après la rédaction du cahier des charges, la première tâche a été de mettre en place un planning prévisionnel pour organiser la création du projet.
 
 Réalisation d'un diagramme prévisionnel type Gantt sur l'outil Jira.

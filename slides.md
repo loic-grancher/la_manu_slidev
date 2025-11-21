@@ -5,7 +5,6 @@ theme: seriph
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Welcome to Slidev
 info: |
     ## Slidev Starter Template
     Presentation slides for developers.
@@ -41,8 +40,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 ---
 
 # Sommaire
-
-<!-- TODO -->
+<Toc maxDepth=1 />
 
 ---
 background: https://cover.sli.dev
@@ -122,6 +120,36 @@ src: ./pages/partie_3/contraintes.md
 <!--  -->
 
 ---
-src: ./pages/partie_3/architecture.md
+src: ./pages/partie_3/architecture_generale.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_3/techno_backend.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_3/architecture_backend.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_3/techno_frontend.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_3/architecture_frontend.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_3/communication_couches.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_3/communication_bdd.md
 ---
 <!--  -->

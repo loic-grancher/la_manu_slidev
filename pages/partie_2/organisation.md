@@ -3,7 +3,7 @@ layout: center
 ---
 <v-click>
 
-# Organisation du travail
+## Organisation du travail
 
 - Premières semaines : travail en présentiel (plus facile pour préparer le projet)
 - Puis majoritairement en distanciel via Discord

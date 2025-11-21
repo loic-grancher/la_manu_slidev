@@ -1,7 +1,7 @@
 ---
 layout: center
 ---
-# Suivi (2)
+## Suivi (2)
 En complément de Jira, pour les problèmes du quotidien, utilisation de simple Todolist (fichier Markdown directement intégrée à notre repository Github).
 Avantages : 
 - intégré au projet, pas besoin d'ouvrir un outil externe

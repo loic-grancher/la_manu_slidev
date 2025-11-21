@@ -1,7 +1,7 @@
 ---
 layout: center
 ---
-# Suivi
+## Suivi
 
 **Réunions**
 - chaque début de semaine -> définir les objectifs de la semaine

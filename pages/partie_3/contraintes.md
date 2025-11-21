@@ -1,7 +1,7 @@
 ---
 layout: center
 ---
-# Contraintes
+## Contraintes
 
 <v-clicks>
 

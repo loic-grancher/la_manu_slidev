@@ -1,7 +1,7 @@
 ---
 layout: center
 ---
-# Le client :
+## Le client :
 
 <img src="/images/Logo.svg" width="200px"/>
 
