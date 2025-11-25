@@ -224,12 +224,67 @@ layout: cover
 ---
 # Partie VII : Spécifications techniques
 
+---
+src: ./pages/partie_7/server_1.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/server_2.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/server_3.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/api_response.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/documentation.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/client_1.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/forms.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/validation_table.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/autres_outils.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_7/deploiement.md
+---
+<!--  -->
 
 
+---
+background: https://cover.sli.dev
+layout: cover
+---
+# Partie VII : Sécurité
 
+---
+src: ./pages/partie_7/deploiement.md
+---
+<!--  -->
 
-
-
-# Partie 
 
 # Conclusion
