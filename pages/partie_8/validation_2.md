@@ -37,12 +37,14 @@ layout : two-cols
 - Via la fonction safeParse dans le contrôleur
 
 ```js
-    const parsedData = loginSchema.safeParse({ email, password });
+    const parsedData = loginSchema.safeParse({ 
+      email, password 
+    });
 ```
 
 - Continue les opération si valide
 - Sinon renvoie une erreur
-- 
+
 </div>
 
 </v-click>

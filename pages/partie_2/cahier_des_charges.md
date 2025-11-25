@@ -10,3 +10,4 @@ Objectifs:
 - Commencer à envisager les différentes couches du projet. 
 - Choisir les outils utilisés
 - Fixer les limites du projet, séparer les fonctionnalités optionnelles  des principales. 
+- S'assurer que le projet respecte  les différentes compétences attendues dans le référentiel de la formation

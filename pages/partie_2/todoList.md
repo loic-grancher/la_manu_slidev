@@ -9,7 +9,7 @@ En complément de Jira, pour les problèmes du quotidien, utilisation de simple 
 Avantages : 
 - intégré au projet, pas besoin d'ouvrir un outil externe
 - simple et flexible
-- 
+
  </v-click>
  <v-click>
 

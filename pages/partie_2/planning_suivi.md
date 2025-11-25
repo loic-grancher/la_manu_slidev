@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: /images/planning.png
+image: /images/jira.png
 backgroundSize: contain
 ---
 ## Planning et suivi

@@ -6,7 +6,7 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "export-pptx": "slidev export --format pptx"
+    "export-pptx": "slidev export --format pptx --with-clicks --dark"
   },
   "dependencies": {
     "@slidev/cli": "^52.9.1",

@@ -1,7 +1,5 @@
 ---
-layout: image-right
-image : /images/diagram_client_server.png
-backgroundSize: contain
+layout: center
 
 ---
 ## Architecture générale
@@ -12,4 +10,9 @@ Les deux couches communiquent via une api "REST" (Representational State Transfe
 
 Ici, transfert de données au format *JSON* via des requêtes et réponses HTTP (GET, POST, PUT, DELETE)
 
+<br/>
 
+```mermaid
+flowchart LR
+  1[Client]-."Requete HTTP".->2[Serveur/API]-->5[(BDD)];
+```

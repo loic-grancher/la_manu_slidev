@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+background: /images/bg_abstract.jpg
 # some information about your slides (markdown enabled)
 info: |
     ## Slidev Starter Template
@@ -23,7 +23,7 @@ mdc: true
 duration: 35min
 ---
 
-# Présentation de projet de groupe
+# Projet de Formation 
 
 ## La Manu 2025-2026
 
@@ -43,7 +43,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 <Toc maxDepth=1 />
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_abstract_2.jpg
 layout: cover
 ---
 # Partie I : Présentation de l’entreprise et du service
@@ -67,7 +67,7 @@ src: ./pages/partie_1/3_choix_du_projet.md
 <!--  -->
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_work.jpg
 layout: cover
 ---
 # Partie II : Mise en place du projet
@@ -79,10 +79,6 @@ src: ./pages/partie_2/cahier_des_charges.md
 <!-- TODO: compléter partier CDC -->
 
 
----
-src: ./pages/partie_2/competences.md
----
-<!--  -->
 
 ---
 src: ./pages/partie_2/planning_suivi.md
@@ -94,10 +90,7 @@ src: ./pages/partie_2/suivi.md
 ---
 <!--  -->
 
----
-src: ./pages/partie_2/todoList.md
----
-<!--  -->
+
 
 ---
 src: ./pages/partie_2/organisation.md
@@ -106,7 +99,7 @@ src: ./pages/partie_2/organisation.md
 
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_abstract_4.jpg
 layout: cover
 ---
 # Partie III : Spécifications fonctionnelles du projet
@@ -141,10 +134,7 @@ src: ./pages/partie_3/architecture_frontend.md
 ---
 <!--  -->
 
----
-src: ./pages/partie_3/communication_couches.md
----
-<!--  -->
+
 
 ---
 src: ./pages/partie_3/communication_bdd.md
@@ -153,7 +143,7 @@ src: ./pages/partie_3/communication_bdd.md
 
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_abstract_3.jpg
 layout: cover
 ---
 # Partie IV : Maquettes
@@ -179,7 +169,7 @@ src: ./pages/partie_4/maquette.md
 <!--  -->
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_connexion.jpg
 layout: cover
 ---
 # Partie V : Modèles de base de données
@@ -195,7 +185,7 @@ src: ./pages/partie_5/mld.md
 <!--  -->
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_architecture.jpg
 layout: cover
 ---
 # Partie VI : Fonctionnalités et cas d'utilisation
@@ -216,7 +206,7 @@ src: ./pages/partie_6/cas_utilisation.md
 <!--  -->
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_code.jpg
 layout: cover
 ---
 # Partie VII : Spécifications techniques
@@ -236,10 +226,7 @@ src: ./pages/partie_7/server_3.md
 ---
 <!--  -->
 
----
-src: ./pages/partie_7/api_response.md
----
-<!--  -->
+
 
 ---
 src: ./pages/partie_7/documentation.md
@@ -273,7 +260,7 @@ src: ./pages/partie_7/deploiement.md
 
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_light.jpg
 layout: cover
 ---
 # Partie VII : Sécurité
@@ -295,7 +282,7 @@ src: ./pages/partie_8/validation_2.md
 
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_white.jpg
 layout: cover
 ---
 # Partie XIX : Tests
@@ -317,14 +304,14 @@ src: ./pages/partie_9/veille.md
 <!--  -->
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_abstract.jpg
 layout: cover
 ---
 # Démonstration de l'application
 
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_abstract_2.jpg
 layout: cover
 ---
 # Conclusion
@@ -340,7 +327,7 @@ src: ./pages/ouverture.md
 <!--  -->
 
 ---
-background: https://cover.sli.dev
+background: /images/bg_abstract_3.jpg
 layout: cover
 ---
-Merci de votre attention
+## Merci de votre attention
