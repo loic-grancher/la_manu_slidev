@@ -4,7 +4,13 @@ layout: center
 ## Formation du groupe et choix du projet
 
 ### Formation du groupe
-Nous étions les 3 élèves basés au Havre, donc pour des raisons pratique, nous avons formé un groupe. De plus nous avons pu nous rencontrer en présentiel dès le premier jour. Enfin, Kenan et moi nous conaissions déjà car nous avions effectué la même formation l'an passé.
+- 3 élèves basés au Havre
+- Rencontre en présentiel dès le premier jour
+- Kenan et moi nous conaissions déjà
+
+<v-click>
+
+<br/>
 
 ### Choix du projet :
 
@@ -13,3 +19,5 @@ Nous étions les 3 élèves basés au Havre, donc pour des raisons pratique, nou
     - Inconvénient : se familiariser avec l'organisation parfois complexe de l'entreprise
 
 2) Familiarité par l'un des membres du groupe: Mme Banville travaille dans cette entreprise
+
+</v-click>

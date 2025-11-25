@@ -1,6 +1,6 @@
 ---
 layout: image
-image: /images/mld.png
+image: /images/MLD.png
 backgroundSize: contain
 
 ---

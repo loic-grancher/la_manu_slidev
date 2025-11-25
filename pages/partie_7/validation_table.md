@@ -19,6 +19,8 @@ Paramètres :
 
 ::right::
 
+<v-click>
+
 ### PDF
 <br/>
 
@@ -31,3 +33,5 @@ Objet JS avec différentes valeurs :
 - numéro de contrat
 - ...
 - template
+
+</v-click>

@@ -3,6 +3,8 @@ layout: center
 ---
 ## Le client :
 
+<br/>
+
 <img src="/images/Logo.svg" width="200px"/>
 
 - centre de formation (IFEN)

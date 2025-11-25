@@ -9,7 +9,7 @@ backgroundSize: contain
 
 - Aspect final de l'application :
   - couleurs
-  - images, en passant par l'
+  - images
   - organisation exacte des formulaires 
   - popups 
 - Emulation de navigation dans l'application 

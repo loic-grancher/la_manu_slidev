@@ -282,9 +282,68 @@ layout: cover
 # Partie VII : Sécurité
 
 ---
-src: ./pages/partie_7/deploiement.md
+src: ./pages/partie_8/jwt.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_8/validation_1.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_8/validation_2.md
 ---
 <!--  -->
 
 
+---
+background: https://cover.sli.dev
+layout: cover
+---
+# Partie XIX : Tests
+
+
+---
+src: ./pages/partie_9/test_serveur.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_9/tests.md
+---
+<!--  -->
+
+---
+src: ./pages/partie_9/veille.md
+---
+<!--  -->
+
+---
+background: https://cover.sli.dev
+layout: cover
+---
+# Démonstration de l'application
+
+
+---
+background: https://cover.sli.dev
+layout: cover
+---
 # Conclusion
+
+---
+src: ./pages/conclusion.md
+---
+<!--  -->
+
+---
+src: ./pages/ouverture.md
+---
+<!--  -->
+
+---
+background: https://cover.sli.dev
+layout: cover
+---
+Merci de votre attention

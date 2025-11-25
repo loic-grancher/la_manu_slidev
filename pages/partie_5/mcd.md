@@ -1,6 +1,6 @@
 ---
 layout: image
-image: /images/mcd.png
+image: /images/MCD.png
 backgroundSize: contain
 
 ---

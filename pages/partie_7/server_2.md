@@ -18,6 +18,9 @@ async function getContracts() {
 
 ::right::
 
+<v-click>
+
+
 Serveur:
 ```js
 // src/routes.js
@@ -27,6 +30,11 @@ export default (router) => {
   ...
   router.use("/contracts", contract);
 ```
+
+
+</v-click>
+<v-click>
+
 
 ```js
 // server.js
@@ -44,3 +52,5 @@ app.listen(port, () => {
 });
 
 ```
+
+</v-click>

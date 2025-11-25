@@ -18,8 +18,13 @@ layout : two-cols
 
 ::right::
 
+<v-click>
+
+
 ### Github Actions
 <br/>
 
 - Déploiement automatisé
 - Utilisé pour vérification du code et tests
+
+</v-click>

@@ -14,6 +14,8 @@ const router = Router();
 router.get("/", authMiddleware, getAll);
 ```
 
+<v-click>
+
 ```js
 // src/controllers/contract/getAll.js
 export default async (req, res) => {
@@ -34,9 +36,15 @@ export default async (req, res) => {
 };
 
 ```
+
+</v-click>
+
 </div>
 
+
 ::right::
+
+<v-click>
 
 Service:
 ```js
@@ -64,3 +72,5 @@ const getAll = async (limit = 10) => {
 };
 
 ```
+
+</v-click>

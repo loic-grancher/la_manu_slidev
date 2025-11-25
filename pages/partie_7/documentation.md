@@ -16,6 +16,8 @@ layout : two-cols
 
 ::right::
 
+<v-click>
+
 ### Emails
 - Nouveau contrat signé/à signer
 - Mot de passe oublié
@@ -25,3 +27,5 @@ Mise en place:
 - SMTP
 - Nodemailer
 - MailPit
+
+</v-click>
